@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adilyunuso
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently Software and Mathematical Engineering 
+- 🌱 I’m a Computer Science and Mathematical Engineering student
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me linkedin.com/in/adil-yunusoğlu-59776625a
 - 
